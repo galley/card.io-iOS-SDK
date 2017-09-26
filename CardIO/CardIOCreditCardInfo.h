@@ -1,6 +1,6 @@
 //
 //  CardIOCreditCardInfo.h
-//  Version 5.4.1
+//  Version 5.4.1-5-gd62d772
 //
 //  See the file "LICENSE.md" for the full license governing this code.
 //
